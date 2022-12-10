@@ -1,6 +1,6 @@
 <h2>Hi, I'm Anand <animated-image data-catalyst="" style="width: 28px;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" data-target="animated-image.originalLink"><img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" alt="hi" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage" height="28px"></a>
       <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
-        <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" target="_blank">
+        <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" target="_blank"> </h2>
           
 
 <p>I'm Anand a REACT.JS Web Developer. Currently i am Learning Node.Js as Backend to Become a MERN Stack Developer. I Spend most of time coding outstanding projects. All coding projects are built from the ground up from planning and designing all the way to solving real-life problems with code.</p>
