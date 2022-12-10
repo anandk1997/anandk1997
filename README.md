@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Anand</h1>
-<h3 align="center">I'm Anand a REACT.JS Web Developer. Currently i am Learning Node.Js as Backend to Become a MERN Stack Developer. I Spend most of time coding outstanding projects. All coding projects are built from the ground up from planning and designing all the way to solving real-life problems with code.</h3>
+<h2>Hi 👋, I'm Anand</h2>
+<p align="center">I'm Anand a REACT.JS Web Developer. Currently i am Learning Node.Js as Backend to Become a MERN Stack Developer. I Spend most of time coding outstanding projects. All coding projects are built from the ground up from planning and designing all the way to solving real-life problems with code.</p>
 
 - 💬 Ask me about **MERN**
 
