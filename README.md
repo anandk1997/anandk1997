@@ -3,7 +3,7 @@
         <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" target="_blank"> </h2>
           
 
-<p>I'm Anand a REACT.JS Web Developer. Currently i am Learning Node.Js as Backend to Become a MERN Stack Developer. I Spend most of time coding outstanding projects. All coding projects are built from the ground up from planning and designing all the way to solving real-life problems with code.</p>
+<p>I'm Anand a MERN Stack Developer. Currently i am Working on Node.Js as Backend as a MERN Stack Developer. I Spend most of time coding outstanding projects. All coding projects are built from the ground up from planning and designing all the way to solving real-life problems with code.</p>
 
 - 💬 Ask me about **MERN**
 
